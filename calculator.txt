@@ -29,12 +29,12 @@ namespace calculator
             {
                 if (x == 0)
                 {
-                    x = 2;
+                    x= 2;
                 }
                 else
                 {
-                    x = x * 10;
-                    x = x + 2;
+                    x= x * 10;
+                    x= x + 2;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(x); 
@@ -46,12 +46,12 @@ namespace calculator
             {
                 if (y == 0)
                 {
-                    y = 2;
+                    y= 2;
                 }
                 else
                 {
-                   y = y * 10;
-                    y = y + 2;
+                   y= y * 10;
+                    y= y + 2;
                 }
 
                 textBox1.Clear();
@@ -65,12 +65,12 @@ namespace calculator
             {
                 if (x == 0)
                 {
-                    x = 1;
+                    x= 1;
                 }
                 else
                 {
-                    x = x * 10;
-                    x = x + 1;
+                    x= x * 10;
+                    x= x + 1;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(x);
@@ -81,12 +81,12 @@ namespace calculator
             {
                 if (y == 0)
                 {
-                    y = 1;
+                    y= 1;
                 }
                 else
                 {
-                    y = y * 10;
-                    y = y + 1;
+                    y= y * 10;
+                    y= y + 1;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(y);
@@ -102,12 +102,12 @@ namespace calculator
             {
                 if (x == 0)
                 {
-                    x = 3;
+                    x= 3;
                 }
                 else
                 {
-                    x = x * 10;
-                    x = x + 3;
+                    x= x * 10;
+                    x= x + 3;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(x);
@@ -118,12 +118,12 @@ namespace calculator
             {
                 if (y == 0)
                 {
-                    y = 3;
+                    y= 3;
                 }
                 else
                 {
-                    y = y * 10;
-                    y = y + 3;
+                    y= y * 10;
+                    y= y + 3;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(y);
@@ -138,12 +138,12 @@ namespace calculator
             {
                 if (x == 0)
                 {
-                    x = 4;
+                    x= 4;
                 }
                 else
                 {
-                    x = x * 10;
-                    x = x + 4;
+                    x= x * 10;
+                    x= x + 4;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(x);
@@ -154,12 +154,12 @@ namespace calculator
             {
                 if (y == 0)
                 {
-                    y = 4;
+                    y= 4;
                 }
                 else
                 {
-                    y = y * 10;
-                    y = y + 4;
+                    y= y * 10;
+                    y= y + 4;
                 }
 
                 textBox1.Clear();
@@ -174,12 +174,12 @@ namespace calculator
             {
                 if (x == 0)
                 {
-                    x = 5;
+                    x= 5;
                 }
                 else
                 {
-                    x = x * 10;
-                    x = x + 5;
+                    x= x * 10;
+                    x= x + 5;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(x);
@@ -190,12 +190,12 @@ namespace calculator
             {
                 if (y == 0)
                 {
-                    y = 5;
+                    y= 5;
                 }
                 else
                 {
-                    y = y * 10;
-                    y = y + 5;
+                    y= y * 10;
+                    y= y + 5;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(y);
@@ -210,12 +210,12 @@ namespace calculator
             {
                 if (x == 0)
                 {
-                    x = 6;
+                    x= 6;
                 }
                 else
                 {
-                    x = x * 10;
-                    x = x + 6;
+                    x= x * 10;
+                    x= x + 6;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(x);
@@ -226,12 +226,12 @@ namespace calculator
             {
                 if (y == 0)
                 {
-                    y = 6;
+                    y= 6;
                 }
                 else
                 {
-                    y = y * 10;
-                    y = y + 6;
+                    y= y * 10;
+                    y= y + 6;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(y);
@@ -246,12 +246,12 @@ namespace calculator
             {
                 if (x == 0)
                 {
-                    x = 7;
+                    x= 7;
                 }
                 else
                 {
-                    x = x * 10;
-                    x = x + 7;
+                    x= x * 10;
+                    x= x + 7;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(x);
@@ -262,12 +262,12 @@ namespace calculator
             {
                 if (y == 0)
                 {
-                    y = 7;
+                    y= 7;
                 }
                 else
                 {
-                    y = y * 10;
-                    y = y + 7;
+                    y= y * 10;
+                    y= y + 7;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(y);
@@ -282,12 +282,12 @@ namespace calculator
             {
                 if (x == 0)
                 {
-                    x = 8;
+                    x= 8;
                 }
                 else
                 {
-                    x = x * 10;
-                    x = x + 8;
+                    x= x * 10;
+                    x= x + 8;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(x);
@@ -298,12 +298,12 @@ namespace calculator
             {
                 if (y == 0)
                 {
-                    y = 8;
+                    y= 8;
                 }
                 else
                 {
-                    y = y * 10;
-                    y = y + 8;
+                    y= y * 10;
+                    y= y + 8;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(y);
@@ -318,12 +318,12 @@ namespace calculator
             {
                 if (x == 0)
                 {
-                    x = 9;
+                    x= 9;
                 }
                 else
                 {
-                    x = x * 10;
-                    x = x + 9;
+                    x= x * 10;
+                    x= x + 9;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(x);
@@ -334,15 +334,15 @@ namespace calculator
             {
                 if (y == 0)
                 {
-                    y = 9;
+                    y= 9;
                 }
                 else
                 {
-                    y = y * 10;
-                    y = y + 9;
+                    y= y * 10;
+                    y= y + 9;
                 }
                 textBox1.Clear();
-                textBox1.Text = Convert.ToString(y);
+                textBox1.Text= Convert.ToString(y);
 
 
             }
@@ -352,17 +352,17 @@ namespace calculator
         {
             if(f3==0)
             {
-                f2 = 1;
-                flag = 1;
+                f2= 1;
+                flag= 1;
                 textBox1.Clear();
-                textBox1.Text = "+";
+                textBox1.Text= "+";
             }
             else
             {
-                f2 = 1;
+                f2= 1;
                 
                textBox1.Clear();
-                textBox1.Text = "+";
+                textBox1.Text= "+";
             }
             
         }
@@ -371,17 +371,17 @@ namespace calculator
         {
             if (f3 == 0)
             {
-                f2 = 2;
-                flag = 1;
+                f2= 2;
+                flag= 1;
                 textBox1.Clear();
-                textBox1.Text = "-";
+                textBox1.Text= "-";
             }
             else
             {
-                f2 = 2;
+                f2= 2;
 
                 textBox1.Clear();
-                textBox1.Text = "-";
+                textBox1.Text= "-";
             }
         }
 
@@ -389,17 +389,17 @@ namespace calculator
         {
             if (f3 == 0)
             {
-                f2 = 3;
-                flag = 1;
+                f2= 3;
+                flag= 1;
                 textBox1.Clear();
-                textBox1.Text = "X";
+                textBox1.Text= "X";
             }
             else
             {
-                f2 = 3;
+                f2= 3;
 
                 textBox1.Clear();
-                textBox1.Text = "X";
+                textBox1.Text= "X";
             }
         }
 
@@ -407,17 +407,17 @@ namespace calculator
         {
             if (f3 == 0)
             {
-                f2 = 4;
-                flag = 1;
+                f2= 4;
+                flag= 1;
                 textBox1.Clear();
-                textBox1.Text = "/";
+                textBox1.Text= "/";
             }
             else
             {
-                f2 = 4;
+                f2= 4;
 
                 textBox1.Clear();
-                textBox1.Text = "/";
+                textBox1.Text= "/";
             }
         }
 
@@ -427,23 +427,23 @@ namespace calculator
             {
                 if (f2 == 1)
                 {
-                    z = x + y;
+                    z= x + y;
                 }
                 if (f2 == 2)
                 {
-                    z = x - y;
+                    z= x - y;
 
                 }
                 if (f2 == 3)
                 {
-                    z = x * y;
+                    z= x * y;
                 }
                 if (f2 == 4)
                 {
-                    z = x / y;
+                    z= x / y;
                 }
                 
-                f3 = 1;
+                f3= 1;
             }
            
 
@@ -452,37 +452,37 @@ namespace calculator
                 
                 if (f2 == 1)
                 {
-                    z += x;
+                    z+= x;
                 }
                 if (f2 == 2)
                 {
-                    z -= x;
+                    z-= x;
 
                 }
                 if (f2 == 3)
                 {
-                    z *=x;
+                    z*=x;
                 }
                 if (f2 == 4)
                 {
-                    z /=  x;
+                    z/=  x;
                 }
             }
           
             textBox1.Clear();
-            flag = 0;
-            x = 0;
+            flag= 0;
+            x= 0;
           textBox1.Text = Convert.ToString(z);
         }
 
         private void button16_Click(object sender, EventArgs e)
         {
-            x = 0;
-            y = 0;
-            z = 0;
-            flag = 0;
-            f2 = 0;
-            f3 = 0;
+            x= 0;
+            y= 0;
+            z= 0;
+            flag= 0;
+            f2= 0;
+            f3= 0;
             textBox1.Clear();
         }
 
@@ -490,14 +490,14 @@ namespace calculator
         {
             if (flag == 0)
             {
-                x = x / 10;
+                x= x / 10;
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(x);
                     
             }
             else
             {
-                y = y / 10;
+                y= y / 10;
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(y);
             }
@@ -509,12 +509,12 @@ namespace calculator
             {
                 if (x == 0)
                 {
-                    x = 0;
+                    x= 0;
                 }
                 else
                 {
-                    x = x * 10;
-                    x = x + 0;
+                    x= x * 10;
+                    x= x + 0;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(x);
@@ -525,12 +525,12 @@ namespace calculator
             {
                 if (y == 0)
                 {
-                    y = 0;
+                    y= 0;
                 }
                 else
                 {
-                    y = y * 10;
-                    y = y + 0;
+                    y= y * 10;
+                    y= y + 0;
                 }
                 textBox1.Clear();
                 textBox1.Text = Convert.ToString(y);
